@@ -1,5 +1,12 @@
 # Wabanex
 
+## GraphQL for Elixir
+
+<https://github.com/absinthe-graphql/absinthe>
+<https://github.com/absinthe-graphql/absinthe/wiki/Scalar-Recipes>
+
+## Phoenix framework
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
