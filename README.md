@@ -1,5 +1,9 @@
 # Wabanex
 
+## Event Repo
+
+<https://github.com/rocketseat-education/nlw-06-elixir>
+
 ## GraphQL for Elixir
 
 <https://github.com/absinthe-graphql/absinthe>
